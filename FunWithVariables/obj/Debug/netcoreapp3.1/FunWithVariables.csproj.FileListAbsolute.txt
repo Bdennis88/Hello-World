@@ -1,0 +1,16 @@
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\bin\Debug\netcoreapp3.1\FunWithVariables.exe
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\bin\Debug\netcoreapp3.1\FunWithVariables.deps.json
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\bin\Debug\netcoreapp3.1\FunWithVariables.runtimeconfig.json
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\bin\Debug\netcoreapp3.1\FunWithVariables.runtimeconfig.dev.json
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\bin\Debug\netcoreapp3.1\FunWithVariables.dll
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\bin\Debug\netcoreapp3.1\FunWithVariables.pdb
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\FunWithVariables_MarkupCompile.cache
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\FunWithVariables_MarkupCompile.lref
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\FunWithVariables.g.resources
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\FunWithVariables.AssemblyInfoInputs.cache
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\FunWithVariables.AssemblyInfo.cs
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\FunWithVariables.dll
+C:\Users\maconrm180\Desktop\Brandon Dennis\FunWithVariables\obj\Debug\netcoreapp3.1\FunWithVariables.pdb

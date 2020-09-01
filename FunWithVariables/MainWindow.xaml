@@ -1,0 +1,19 @@
+﻿<Window x:Class="FunWithVariables.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FunWithVariables"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Height="496">
+        <Label x:Name="labelFirstName_" Content="First Name " HorizontalAlignment="Left" Margin="129,118,0,0" VerticalAlignment="Top" Width="138" FontSize="22" FontWeight="Bold"/>
+        <Label x:Name="labelFirstName" Content="Last Name" HorizontalAlignment="Left" VerticalAlignment="Top" Width="138" Margin="129,199,0,0" FontSize="22" FontWeight="Bold"/>
+        <TextBox x:Name="textBoxFirstName" HorizontalAlignment="Left" Margin="280,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="22" FontWeight="Bold"/>
+        <TextBox x:Name="textBoxLastName" HorizontalAlignment="Left" Margin="280,207,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="22" FontWeight="Bold"/>
+        <Label x:Name="labelMyMessage" Content="" HorizontalAlignment="Left" Margin="141,275,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
+        <Button x:Name="buttonMyMessage" Content="Push Me!" HorizontalAlignment="Left" Margin="198,331,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold" Width="312" Height="44" Click="ButtonMyMessage_Click"/>
+        <Button x:Name="buttonClearMe" Content="Clear Me!" HorizontalAlignment="Left" Margin="198,380,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold" Width="312" Height="44" Click="buttonClearMe_Click"/>
+
+    </Grid>
+</Window>
